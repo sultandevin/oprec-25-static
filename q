@@ -1,0 +1,2093 @@
+[33mcommit f215d44027a279093d2cd40edda0bdbe4b093c2a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Fri May 2 09:22:24 2025 +0700
+
+    feat(web)!: changed website to be static for showcase
+
+[33mcommit e2d304ef429725f2c7e0d3cb2134d3d1000c5b2f[m
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Tue Dec 3 20:23:51 2024 +0700
+
+    fix[announcement time]: 10am utc but 5pm in +7
+
+[33mcommit aa1ca0b0e8a36a05b20c1fa848babee4658f80f9[m
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Tue Dec 3 20:22:00 2024 +0700
+
+    fix[announcement date]: 5pm
+
+[33mcommit 178f1ddfec13a3e9a9c5fb6880daaa365bb0abad[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:33:45 2024 +0700
+
+    bisa please
+
+[33mcommit 38f94e0f04a6dd134afb9501ab01607eb8814c3e[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:31:58 2024 +0700
+
+    bisa please
+
+[33mcommit f755425e2163750cfda66f2bacedaffb3d175c6b[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:29:41 2024 +0700
+
+    bisa please
+
+[33mcommit d2cd43efc631a61b387d4f70f41e7525f5e36609[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:29:23 2024 +0700
+
+    bisa please
+
+[33mcommit 660a69e3bbd489f64f582c9e5e9a3eec5ffb8b8d[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:27:31 2024 +0700
+
+    bisa please
+
+[33mcommit dcf7f7ff9daf56dec9503acdf3fac4f61fde51ee[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:25:16 2024 +0700
+
+    bisa please
+
+[33mcommit c98b434edcb47bc406f8a36393c8a41171c5f035[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:23:01 2024 +0700
+
+    bisa please
+
+[33mcommit a52bd16eac87923e23b5f5626adba3d9f0740752[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:21:32 2024 +0700
+
+    bisa please
+
+[33mcommit ddd5402510bb629828fb03756bfd5956ebf1fb27[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:16:14 2024 +0700
+
+    bisa please
+
+[33mcommit 8e48614a1fd39df2912c7b863b5cb0c850436596[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:13:25 2024 +0700
+
+    bisa please
+
+[33mcommit f81f71b1714c0297cfd3e6ae2daf6119fcef7780[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:11:12 2024 +0700
+
+    bisa please
+
+[33mcommit 12218ab99fb7dcb7a163464a03e8a2c56b4d8bd2[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:08:36 2024 +0700
+
+    bisa please
+
+[33mcommit 50c86084a8e92670e7b1233fc71485f7a9cd43e8[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 16:05:41 2024 +0700
+
+    nyoba lagi
+
+[33mcommit 65356a83e43ba1f71a616f17623e14234e43720f[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 15:57:43 2024 +0700
+
+    benerin
+
+[33mcommit e6396691553f796596afa47cdf202777de48766c[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 15:54:57 2024 +0700
+
+    tes popup link
+
+[33mcommit 7be3507b3abec955caeefdcc1e7a49a2cd672b8d[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 15:52:04 2024 +0700
+
+    fix
+
+[33mcommit cae65f885228efe8037b4fd29a797f5598a3f8c6[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Dec 1 15:49:27 2024 +0700
+
+    temp[group links]
+
+[33mcommit 947db78f5f3e72a790252363f13501eb7b41731f[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Sat Nov 30 16:56:55 2024 +0700
+
+    fix: cannot read property judul
+
+[33mcommit 19f68c6a66befc9f25593fb8acd02134bb781c64[m
+Author: devve <108273639+sultandevin@users.noreply.github.com>
+Date:   Tue Nov 26 15:30:08 2024 +0700
+
+    announcement page (#2)
+    
+    * feat!: reveal halaman pengumuman
+    
+    * fix: pengumuman di dashboard navbar
+
+[33mcommit 15f0bf742f5a6b1f40db845bdb450faacedfe3d1[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 21:09:50 2024 +0700
+
+    fix: date akhirnya LongLer
+
+[33mcommit e8a0ba0fd93c974ce447862ef6cedc069ee46110[m
+Merge: a90cd2b 67864a0
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 17:47:55 2024 +0700
+
+    Merge branch 'main' of https://github.com/Andhiki/oprec-25
+
+[33mcommit a90cd2b15c79411acc146ca8801383c243bf3688[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 17:42:56 2024 +0700
+
+    fix: aduh ini lagi cok tanggal
+
+[33mcommit 67864a0fb605df147806b8d3b60a6265a9a9a730[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 17:42:56 2024 +0700
+
+    fix: aduh ini lagi cok tanggal
+
+[33mcommit 36a342629cd2b74727b4aa7a49ac4c3d5c9e0ea8[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 17:21:35 2024 +0700
+
+    fix[admin]: date formatting in divisions table
+
+[33mcommit 37725237084c51dac3cc8dd1100088087ee669dc[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 17:21:35 2024 +0700
+
+    fix[admin]: date formatting in divisions table
+
+[33mcommit 928bed5c6efca395d29780b1568dfef72232198c[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 14:37:55 2024 +0700
+
+    fix[admin]: ui changes gabut
+
+[33mcommit 8ae5decd2ea0f77d3703271d2415c2c15f9b9900[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 13:01:33 2024 +0700
+
+    fix[makomti]: chevron on select
+
+[33mcommit 3a78a60e2f172ec3b5caeb91c81e7f6e26643f1b[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Nov 20 12:57:15 2024 +0700
+
+    fix[makomti]: improved approval flow and ui
+
+[33mcommit 7c0e7cfc9122f7216a18bc119951c5240511f030[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Nov 18 15:19:21 2024 +0700
+
+    feat!: penutupan pendaftaran
+
+[33mcommit 8499cef991ed35a149b1a15d4875cb21c00986a1[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Nov 11 22:32:35 2024 +0700
+
+    fix: text center in auth pages
+
+[33mcommit ad208d72d3d6061921f6e12d60e8b8668f0f1451[m
+Merge: 7b033b3 7e0026f
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Sat Nov 16 20:15:58 2024 +0700
+
+    Merge pull request #1 from Andhiki/abc
+    
+    fixing merge with upstream
+
+[33mcommit 7e0026fcefae558533129163cfdfe88697cd0dfc[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Tue Nov 12 00:36:37 2024 +0700
+
+    fix: update admin dashboard biar nunjukkin tanggal
+
+[33mcommit cb22a2a0280ffc3bcb24c30db27a8fb30c8ac75f[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Mon Nov 11 17:07:39 2024 +0700
+
+    fix: changed tulisan ke penugasan
+
+[33mcommit 7791b28132430219bb6240f262ca631627b88526[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 11 16:50:48 2024 +0700
+
+    fix: admin dashboard and package package an
+
+[33mcommit 3d3beee99d74a5dd96b5116886598da76abfd9cb[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sat Nov 16 19:58:16 2024 +0700
+
+    fix[admin]: iya lagi
+
+[33mcommit 7b033b3950beb95cedc3a7f448a570c142cc92fa[m
+Merge: 045d3bd bf85fbe
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Nov 13 15:02:53 2024 +0700
+
+    fix[admin-dashboard]: tipis-tipis
+
+[33mcommit bf85fbe01c2f6e89b613cc1c6745c34e2ae5daf8[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Nov 13 14:52:26 2024 +0700
+
+    fix[admin]: memperbagus uhuy
+
+[33mcommit 045d3bdee04cc3bb853f8da632da9f235cb14f75[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Tue Nov 12 00:36:37 2024 +0700
+
+    fix: update admin dashboard biar nunjukkin tanggal
+
+[33mcommit 742d2b3476b75720123d34ede84dc6459a96393d[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Tue Nov 12 00:33:21 2024 +0700
+
+    fix[backend]: bug tadi sore dan user populate ditambahin
+
+[33mcommit 67ca4b7dc3b24d925defd74cdb4790fb6e0e2db1[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Tue Nov 12 00:32:46 2024 +0700
+
+    fix: tambahin fitur tanggal di page admin
+
+[33mcommit ed02c123a1652f7ca219577ec4a648ebc9b40041[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Mon Nov 11 20:03:52 2024 +0700
+
+    fix[slug-divisi]: change title to white
+
+[33mcommit 4eeef9a5dc30b4a42051c1fd6bfc51d63bd918bf[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Mon Nov 11 20:04:41 2024 +0700
+
+    Update adminDashboard.tsx
+
+[33mcommit d801b79b6cd7ddf614202840846468f6e5a37dba[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Mon Nov 11 20:03:52 2024 +0700
+
+    fix[slug-divisi]: change title to white
+
+[33mcommit e511527e05fabc0a9334a5f06a3b31fd12050a06[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Mon Nov 11 17:07:39 2024 +0700
+
+    fix: changed tulisan ke penugasan
+
+[33mcommit b1b01216ec0c245aaafba3800d8b8daa26e3e030[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Mon Nov 11 17:06:32 2024 +0700
+
+    temp: disable button sampe mubes
+
+[33mcommit 8e31f1ed26f0491b580cda33ac89dba052f68bda[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 11 17:04:18 2024 +0700
+
+    temp: disabled button sampai mubes besok
+
+[33mcommit 9a934a0cf6f2a82ec2b0715bbaae4072e9595449[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 11 16:51:55 2024 +0700
+
+    fix: unchanged isAdmin
+
+[33mcommit bf60118afec75c843a482d6c896633fc1bd054ec[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 11 16:50:48 2024 +0700
+
+    fix: admin dashboard and package package an
+
+[33mcommit 5fe805278059dd9a29a42037d9a0ebdbbbdf8075[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 11 15:44:14 2024 +0700
+
+    feat: get all user untuk mubes
+
+[33mcommit ab78a6cc8017be438ee34575d430e51000618c13[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 11 16:51:55 2024 +0700
+
+    fix: unchanged isAdmin
+
+[33mcommit e9f83e1b31a0fb8e9b8eb43df1d5fdff5970f2a6[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 11 16:50:48 2024 +0700
+
+    fix: admin dashboard and package package an
+
+[33mcommit 78e41167e5a359d6b41932ada47be7312b4efd04[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 11 15:44:14 2024 +0700
+
+    feat: get all user untuk mubes
+
+[33mcommit d32ed12419cf99bbb5e4f9924e4c07f9b1ddaea5[m
+Merge: 5a8b66b b68d739
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Nov 11 01:09:15 2024 +0700
+
+    feat: admin dashboard animation and effects biar admin ga bosen
+
+[33mcommit b68d7397b2f935b338a3d4aff8bfc42d75163a7f[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 19:47:29 2024 +0700
+
+    feat: animations in dashboard biar admin ga bosen
+
+[33mcommit 5a8b66b3aeaf0f8b5b170183fb5c5e2aeae68f9d[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Sun Nov 10 18:48:43 2024 +0700
+
+    temp: disable button sementara
+
+[33mcommit da4a3338d69926ac8de61995534f1ae813282da4[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 16:38:29 2024 +0700
+
+    fix: admin dashboard layout and footer link sultandevin
+
+[33mcommit 96b36f7ece9088b52a0ddf0cb294076a8f30e5ae[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 16:38:29 2024 +0700
+
+    fix: admin dashboard layout and footer link sultandevin
+
+[33mcommit 1fab60f194a8392909d9619d8b87a8b146b39f1a[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Sun Nov 10 16:14:15 2024 +0700
+
+    Update page.tsx
+
+[33mcommit d111b8b1c9de14c24207bcc6c8cf166e6175ee2e[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 15:46:20 2024 +0700
+
+    fix: admin dashboard dah bisa liat tanggal user
+
+[33mcommit 4611095aa4ac96e720167761ff2ad2cd0bd8046f[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 15:31:59 2024 +0700
+
+    fix: remove unused slots parameter and improve URL validation in Penugasan component
+
+[33mcommit e9293796e0587a2a7ef5ab61d9ad7e91e1a6e37c[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 14:49:50 2024 +0700
+
+    fix: PLEASE TANGGAL AKU BENCI TANGGAL
+
+[33mcommit 7732c2789b5ed5b5310fb17a102ec6513cac6035[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 14:45:32 2024 +0700
+
+    fix: PLEASE BRO
+
+[33mcommit cdaf6ffc4862b142d5d6e6491655960896a78b1f[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 14:37:15 2024 +0700
+
+    fix: nomor telepon nasya
+
+[33mcommit 4b6e7aafc76200d647dd02607172b07638d99111[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 14:34:41 2024 +0700
+
+    fix: increase revalidation time for getOneDivisi fetch
+
+[33mcommit f2c1d0101948923c50a77fae309afc0927b9bd1b[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 14:34:22 2024 +0700
+
+    fixed time format
+
+[33mcommit 86e811ae36849a4c5065cf38f6b865e87332fcad[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 14:29:30 2024 +0700
+
+    fix: HAL BODOH
+
+[33mcommit 0d0d1c5220be7078169f000dde580fddb7b61184[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 14:27:57 2024 +0700
+
+    fix[backend]: fixed shiet
+
+[33mcommit 956f22b95ac4211ed0fbb5f2b6717cc2c587431a[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Nov 10 13:44:01 2024 +0700
+
+    fix[forgot-password]: add ui to forgot password
+
+[33mcommit 0ca0ab93a7cfdfd1fce09fbb9cd9c1dc42e993a7[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 13:39:56 2024 +0700
+
+    fix[backend]: token gabisa direfresh, omw fix
+
+[33mcommit 3743d85999eb475dff4c42f7c06c83dacc872855[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 13:23:39 2024 +0700
+
+    feat: enhance admin dashboard UI and improve user approval flow
+
+[33mcommit 4e8b1dde2d756129e8a386f16e46615d3ba7bb2f[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 12:41:37 2024 +0700
+
+    fix: middleware cookie shit
+
+[33mcommit 7887abe5841cee8f4cab31e13b75a0073863bad2[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 12:24:48 2024 +0700
+
+    feat: ui changes in divisi + [slug]
+
+[33mcommit d913434011ea8050dbaaa707bbdd007dcb507fe8[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 12:06:59 2024 +0700
+
+    fix: sidebar fixed no longer shows admin
+
+[33mcommit 4ab70b51a8711c4933dd5306c2296c608f25db1e[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 11:46:10 2024 +0700
+
+    feat: improved logout toast and added skeleton for divisi/slug
+
+[33mcommit b7082b581d9293e5e1e6fc4a735dfce060a1fef0[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 02:25:55 2024 +0700
+
+    feat: toast when user logs out
+
+[33mcommit 71cd6ed5e140e7d245f9dfb8a10bf6b1e62693c6[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 04:46:24 2024 +0700
+
+    fix: time formatting semoga bener
+
+[33mcommit 60a2f50eb98ea7b765aa2cd38ef643c81c3baac0[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 04:38:18 2024 +0700
+
+    fix: date formatting
+
+[33mcommit e14aa5635bb9d40eb1274b53706d20b264c31532[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 04:23:46 2024 +0700
+
+    fix: project udah bener, dashboard sidebar ama navbar temporarily disabled ya bosku
+
+[33mcommit ce554e9f76c83d5701b4241e1052f5d856d4aeff[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 02:46:32 2024 +0700
+
+    fix: backend gatau dah tai
+
+[33mcommit 891915e5f91086c3bec10a6d96ae3ec06a366edb[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 02:46:04 2024 +0700
+
+    fix: pengumuman disabled, navbar dan sidebar ganti jadi nomor sharla, fetching tambahin user diterima dimana
+
+[33mcommit 500450fde22fea79de0ae48c2ea81f24575fc345[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 02:17:54 2024 +0700
+
+    feat: added loading ui in dashboard
+
+[33mcommit fa652e64a000bafc4560aa85d51c0c4ad1c3f748[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 10 01:12:46 2024 +0700
+
+    fix: remove unused imports and optimize fetch caching strategy
+
+[33mcommit 1fa23ec23e1325b3f6c09139e4dc077b770c750b[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 00:54:15 2024 +0700
+
+    fix: middleware
+
+[33mcommit f833ce8d914676e54e5b1d50eed0bec628c750fd[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 10 00:46:40 2024 +0700
+
+    fix: fixed middleware and next config to accept cloudinary as an image source
+
+[33mcommit 1d047e8696d53a985c2b8826dec1bf3afa439ba2[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 23:06:49 2024 +0700
+
+    fix: THING GOES SOUTH REVERT
+
+[33mcommit 73ccb9f2590189e36cf406eeffb1f5c93758baeb[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sat Nov 9 23:02:47 2024 +0700
+
+    fix: benerin layout dikit
+
+[33mcommit bf50b505b4a0fa4de981385dd42f3b090ac82282[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 23:02:16 2024 +0700
+
+    fix: middleware, if things goes south ill revert
+
+[33mcommit 60d954832fdcf4bfc32f05bfd3245d670737569b[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 22:56:51 2024 +0700
+
+    fix: BUG FIXED
+
+[33mcommit 987c35dfc91d5d6dddcfa783ffca7a1cb36d80bd[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 22:46:43 2024 +0700
+
+    bug: pls
+
+[33mcommit b75d7e7583698aa736bf8e5e0a455ec2ca92cefc[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 22:44:04 2024 +0700
+
+    bug: prod bug
+
+[33mcommit 279f90a062ebaf05a94c462c93da6cff7e953796[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 22:03:23 2024 +0700
+
+    build & fix: benerin tulisan ama build npm nya devin
+
+[33mcommit 3f128a07cc65089a14697d6099efe45ff4658ab9[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 22:02:48 2024 +0700
+
+    fix: backend message
+
+[33mcommit d7070d0038bd88d57eb64887f2d800cab2cc54cd[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sat Nov 9 22:01:24 2024 +0700
+
+    fix[landing-page]: benerin landing page
+
+[33mcommit 461901fe6cc504c59ad8d56c2f207d9344feb63d[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 21:39:11 2024 +0700
+
+    fix: seeding
+
+[33mcommit 92d0d64be5559f15610ad7e11f8cfabe1d565003[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 21:38:58 2024 +0700
+
+    fix: Popup berhasil gagal, jadwal ada yang salah tadi
+
+[33mcommit e6f8f17f40343d1f473f2e3314b5d5f37a67b9a1[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sat Nov 9 21:08:51 2024 +0700
+
+    feat: add Toaster component for notifications, update Navbar Title link behavior, and enhance Popup components with AlertDialogTitle
+
+[33mcommit b33f8006d8706006810d4fc255a5132e02fa124f[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sat Nov 9 16:27:02 2024 +0700
+
+    fix: remove unused Keterangan component and clean up code formatting in DivisiLengkap and DivisiCard
+
+[33mcommit 42c3ff2eaa405711e266ab479566ae2ad32debed[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sat Nov 9 18:21:24 2024 +0700
+
+    fix[landing-page]: letsgo
+
+[33mcommit a4bdc7568a504f1e6ad178988514a3a8abfa2c27[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 18:10:19 2024 +0700
+
+    fix: fixed seeding (BELOM BISA) sama fixed types nya ic
+
+[33mcommit 00d9ad6bda8bcf6bba165881a1f8639539dc37ef[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 18:09:53 2024 +0700
+
+    fix: fixed wawancara gabisa dipencet kalo udah ada user yang pilih, fixed biar ssr jangan csr, fixed fetching to no cache, fixed types nya ic
+
+[33mcommit b0a71692b2ece1b3a43a9a6ac39f437de5ef369a[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 16:57:51 2024 +0700
+
+    fix: isAdmin ga kebaca
+
+[33mcommit c65d18369792f2e394971dad5056962de9a83980[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 16:25:16 2024 +0700
+
+    fix: middleware unused body
+
+[33mcommit 25cf73d4609f024ca235c409b43b50de664d70d2[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sat Nov 9 15:01:45 2024 +0700
+
+    fix[middleware]: udah gabisa access / kalo dah login
+
+[33mcommit 4f83604ec42336de5bca2bd92c2baa9047dd58c0[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sat Nov 9 14:40:13 2024 +0700
+
+    fix: update LoginForm routing, enhance Avatar component, correct spelling in PopupPengumuman, adjust CardProps type, and improve Logout component localization
+
+[33mcommit 843f7034a3908fc3ac17589676b288c469ac065e[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 8 15:45:31 2024 +0700
+
+    fix: ErrorPopUp
+
+[33mcommit a156f22711cf0a217fc8d6019239d575700ae866[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sat Nov 9 02:22:41 2024 +0700
+
+    fix[timeline]: update timeline date
+
+[33mcommit ce2f64d157b40de916eb4ca1735868aa66381225[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Fri Nov 8 15:57:21 2024 +0700
+
+    fix: improve error handling in RegisterForm, update PilihanWaktuCard state initialization, and enhance Avatar component styling
+
+[33mcommit 93d65cf7354ecaaf23fe35d4c175a3790d8d10a6[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 8 01:46:54 2024 +0700
+
+    fix: MIDDLEWARE LAGI COKK
+
+[33mcommit ac8d1665903bca71072e66c5bd1b9b0cef31da3b[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 8 00:54:40 2024 +0700
+
+    fix: middleware ready for production bismillah masyaAllah tabarakallah
+
+[33mcommit ec5f9b0802bc1b26d15a63dffc9c0f34baa7afd0[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Nov 7 23:28:16 2024 +0700
+
+    fix: fetching kurang tanda tanya, MIDDLEWARE AKHRINYA BENER YA ALLAHH 5 JAM AKU BENERIN INI YA ALLAH
+
+[33mcommit 30547f5275a8ee1e360b526f14f17819c6952d03[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Thu Nov 7 23:19:01 2024 +0700
+
+    feat: add MAX_ENROLLMENTS constant, update LoginForm and Dashboard components, enhance Penugasan and PilihanJam with new props, and improve fetch utility functions
+
+[33mcommit af4048e27d04c725da27cfcdac5735889c84c448[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Nov 7 19:06:00 2024 +0700
+
+    config: next config update
+
+[33mcommit d84bd284867b7a72208cd5f7a7c717572848b2be[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 18:00:15 2024 +0700
+
+    fix: salah import
+
+[33mcommit 46cdd319797400e1eaac217e38843c3503a6b998[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 17:55:33 2024 +0700
+
+    chore: rename
+
+[33mcommit 57d4e13ec7b1d7c5f0f93d6148ce8c8406d4af4b[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 17:55:06 2024 +0700
+
+    chore: rename
+
+[33mcommit 187dc16d1656d83ad607ec144d7913f5cc1506b2[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 17:54:42 2024 +0700
+
+    chore: rename
+
+[33mcommit 95710497a89e02a49ef2da35166bc4ffe25c69c6[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 17:54:21 2024 +0700
+
+    chore: rename
+
+[33mcommit b9220f8ae73b8a69998ec8ecbc4f82cb57898df5[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 17:53:56 2024 +0700
+
+    chore: rename
+
+[33mcommit c426df88aba0bc132c1fedf27ff686bc37457226[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 17:53:29 2024 +0700
+
+    chore: rename
+
+[33mcommit edc705fc99b905368c4cd4705e857d26a403fce1[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 17:53:09 2024 +0700
+
+    chore: rename
+
+[33mcommit 15e9d16eda273a9705efceb45f446b178c4ef1f2[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Thu Nov 7 17:52:47 2024 +0700
+
+    chore: rename
+
+[33mcommit 0a0eadc5e1da166a85990e7a34351626c6949ca7[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Thu Nov 7 17:33:51 2024 +0700
+
+    fix[logo]: import
+
+[33mcommit 8a198ad508301b606f9acc8dfa9474d992ff55d2[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Nov 7 17:15:57 2024 +0700
+
+    fix: fixed import and type error
+
+[33mcommit 26863881c29243258b3a1027451c129adbb372ac[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Nov 7 17:13:35 2024 +0700
+
+    fix: import fix bro
+
+[33mcommit 03e380603014e10ebb6f490cf2c6728c4a7425cf[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Nov 7 16:40:00 2024 +0700
+
+    feat: added new cookie configuration
+
+[33mcommit 132343a121b47b81feb8e4033bff1bbdb842052b[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Nov 7 16:37:59 2024 +0700
+
+    fix & build: dependencies for helmet, fixed unecessary production logging
+
+[33mcommit 19f996933248cc822428d7ef2cc1c6a982392ae5[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Thu Nov 7 15:59:46 2024 +0700
+
+    feat: enhance authentication forms with autoFocus and loading states, improve Logout component styling, and refactor JadwalWawancara for better readability and functionality
+
+[33mcommit a7f3b192a8fc77751ff86ff1345f85b55a80c124[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Tue Nov 5 00:53:26 2024 +0700
+
+    feat: enhance NotFound component with icon, fix Progress component slot reference, improve Card and WaktuPilihanCard styling, and add date/time formatting functions
+
+[33mcommit 89d34966cf237d8a3212f38024e7ab7734f8dba7[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Nov 6 22:47:47 2024 +0700
+
+    fix[prod]: benerin biar prod aman
+
+[33mcommit d5ba8ef3a9b9b961622d5ae4cfa763ce542a2eb6[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Nov 6 22:31:58 2024 +0700
+
+    feat[logo]: munculin logo di divisi lengkap
+
+[33mcommit f1c98d17d570eea790f50c3a015e650300f55d2e[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Nov 6 21:51:27 2024 +0700
+
+    fix[banyak]: add avatar, redirect to /divisi or /admin after logged in, conditional rendering nav/sidebar, add date pengumuman
+
+[33mcommit 71e62bd65cab882558b0573b345d0e10504f29f7[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 17:38:55 2024 +0700
+
+    fix: fixed login form to allow for password reset, fixed password regex, TEMPORARY fix for popup to show errors (NOT YET FINISHED ALSO)
+
+[33mcommit b87191aa837bf69c02f059fb7bea602879ed79dd[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 17:37:22 2024 +0700
+
+    fix: NO MORE INFINITE REDIRECT BABY LETS GOOOO
+
+[33mcommit fb49dc331f87bb0f1ef1e93ff251fdfe15e6ed70[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 17:37:00 2024 +0700
+
+    feat: password reset page (not yed finished, appreciate it if u finish it lmao)
+
+[33mcommit 301413d47a3917173524460572cc0a9d54c3f6dc[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 17:36:18 2024 +0700
+
+    fix[backend]: fixed missing return statement, fix auth, and fix email template
+
+[33mcommit 7af24349ff53f04280a0bb6a9a02f79e1c750be3[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 14:30:59 2024 +0700
+
+    fix: benarkan gambar gambar fetching backend, nambahin Logos types biar gambar gambar bisa reusable, benerin page admin biar lebih bagus, nambahin error popup(belum selesai, after this commit ill do it)
+
+[33mcommit 4f281693f466dd583f113df0f08bf447718458d5[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 12:08:55 2024 +0700
+
+    fix: fixed logging and return statement etc
+
+[33mcommit ec906f2a4c12c3faacae7859de7df9227df7b0c0[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 11:55:00 2024 +0700
+
+    fix: fixed user get get
+
+[33mcommit e83c50736fe09452389f8a1c066cf548c1dc8910[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 11:54:10 2024 +0700
+
+    feat: admin page udah bener su yoi
+
+[33mcommit 74d7def6654e8a2c73a0abf21cda702d75c17c58[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 11:23:17 2024 +0700
+
+    fix: fixed the jam and tanggal to show properly
+
+[33mcommit 23306854ff17689c4c80c40ecde7fe296d9a42d0[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Nov 6 11:06:36 2024 +0700
+
+    fix:
+    - fixed schema and shit
+    - fixed seeding for the db
+    - fixed user controller to allow admin NIM
+
+[33mcommit f291857bd9a8d9d3ca1056bb5c41b955f4806e2e[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Tue Nov 5 20:48:47 2024 +0700
+
+    fix[faq]: typo style
+
+[33mcommit fd7b877600b5dfca84edfb089f74668ac864ae14[m
+Merge: 0589f7c 5665a6a
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Tue Nov 5 20:42:39 2024 +0700
+
+    Merge pull request #9 from OmahTI-UGM/feature/slug-makomti.andre
+    
+    Feature/slug makomti.andre
+
+[33mcommit 5665a6adadddd186ce041e1c521e4ad78fd496a2[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Tue Nov 5 20:40:03 2024 +0700
+
+    fix[slug-makomti]: slug tinggal ganti isi, benerin landing page urutannya (oti dulu biar dibaca dulu), logo himakom ganti
+
+[33mcommit 0589f7c7b28ffb5f3c4a7410dc776766265ccc22[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Tue Nov 5 18:02:32 2024 +0700
+
+    fix: fixed fetching according to backend
+
+[33mcommit f9f64296a20ec44b89969cdb903995805c6789c4[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Tue Nov 5 18:02:00 2024 +0700
+
+    fix: must be authenticated to see them shit
+
+[33mcommit 5e27bbd3ba8052453c06f7246c4caddd0527d8c1[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Tue Nov 5 17:47:15 2024 +0700
+
+    feat: added nim validation when registering
+
+[33mcommit d015e6f2982309c144149465094ba6dc3dc44e75[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Tue Nov 5 16:56:04 2024 +0700
+
+    fix[slug-makomti]: add ui bos tinggal update himakom rehat bentar
+
+[33mcommit 6168198323c2c704eae41169357d131a3ae0dc88[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Tue Nov 5 13:11:12 2024 +0700
+
+    fix[landing-page]: fix logo di hero, footer, sidebar. fix foto model himakom
+
+[33mcommit f584cd822f25c955e9326a7503ccba87c3f612ef[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 4 20:40:06 2024 +0700
+
+    feat: added admin page bosku, nanti tinggal dibenerin di frontend aja ya
+
+[33mcommit 37129ba19d3ee6fadba44f0bb080df425f88ab13[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 4 20:37:55 2024 +0700
+
+    fix: return statement and unecessary console logging, also fix user fetching
+
+[33mcommit f1ca5645dcd267554325deb8c74330429f0c7723[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Mon Nov 4 17:00:37 2024 +0700
+
+    ngefetch data udah bener tinggal ui
+
+[33mcommit 412535d6aa3a6359339d47836588ceab3201826b[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Mon Nov 4 16:13:21 2024 +0700
+
+    fix[slug-makomti]: add generate static paramskuy
+
+[33mcommit 38a2f25d6571db431f15c61949e3aa9bed885c2e[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Nov 4 16:03:27 2024 +0700
+
+    feat: update Progress component to reflect selected count and total slots, enhance Logout and Card components with improved styling and functionality
+
+[33mcommit de58125b6d08826ad249b5db0e57d7703e6a4020[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 4 15:45:19 2024 +0700
+
+    fix: fixed backend biar bener user assignment submission nya
+
+[33mcommit 59b5c2f09bd24dfbf7a9afac1c19c8b75fd9d491[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 4 15:43:46 2024 +0700
+
+    feat: added a feature for frontend to allow assignment submission
+
+[33mcommit b6b7eb71c31abbf27c0cc3a10ef4575ee1e424b3[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 4 13:31:52 2024 +0700
+
+    fix: fixed double user acceptance
+
+[33mcommit 6d85f0ad1859dca0d50e649b3dc9b3a5b9bf436e[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Nov 4 13:30:39 2024 +0700
+
+    feat: admin page buat liat semua user dan accept user ke divisi nya
+
+[33mcommit ee73d58963700f77d0872522f9a7344c324d2e59[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Mon Nov 4 12:45:10 2024 +0700
+
+    feat[landing-page]: add slug makomti
+
+[33mcommit 710ddd31184b7fdf3984fc9f96ff581f9d47b099[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Nov 4 02:23:29 2024 +0700
+
+    fix:
+    - update link paths
+    - adjust some styles
+    - changed regex for register form
+
+[33mcommit e3e405924d43af69bc8b2e3dc136dffd02b07509[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Nov 3 23:39:22 2024 +0700
+
+    fix[popup-pengumuman]: benerin merge
+
+[33mcommit 4d7de36f6b08ca3df7e140911bd01d46b4cf17ce[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 23:37:28 2024 +0700
+
+    feat: cerita fahmi
+
+[33mcommit 318948d5b9631f26bcb3ac1b651331c646b5796f[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 23:15:28 2024 +0700
+
+    feat: enhance PopupUrutan button text, improve button hover styles, and add Penugasan component
+
+[33mcommit 576afc7a998ef0cc575cb49800f2ae01198d9227[m
+Merge: fe1cf53 707fbc3
+Author: Fahmi Shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 23:32:18 2024 +0700
+
+    Merge pull request #8 from OmahTI-UGM/fixing/popup.fahmi
+    
+    Fixing/popup.fahmi
+
+[33mcommit 707fbc3bee26b95d71b94eee1938a1d4b248313d[m
+Merge: b09abea 35599bc
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 23:22:50 2024 +0700
+
+    fix[merge]: merge from fixed/popuop.fahmi
+
+[33mcommit b09abeac616f6783ed076bef8a5ef5c28b4a118c[m
+Merge: 06e63f7 fe1cf53
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 23:19:09 2024 +0700
+
+    fix[merge]
+
+[33mcommit 35599bcd627e49ee69cfe3b252ec45e07821bb09[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 22:50:59 2024 +0700
+
+    fix: fixed DUMB SHIT
+
+[33mcommit b7dc1ec51060a1894f97d5649a2b8f1337cf8aa7[m
+Author: Fahmi Shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 17:36:46 2024 +0700
+
+    fix: popup pengumuman (#5)
+    
+    * feature: pop up
+    
+    * feat: semua pop up insyaallah sudah ya
+    
+    * fix: pop up logout
+    
+    * fix: pop up logout
+    
+    * fixed: popup logout
+    
+    * feat: added all fetching, sudah bisa fetching semua hal. console log juga ada di divisi.tsx components
+    
+    * fix[backend]: returns the correct divisi pilihan and fixed seed a bit to avoid duplicate data
+    
+    * fix[fetch, divisi slug, popup]:
+    - fixed fetching
+    - fixed popup to add logic inside the enrollment popup and fixed the success popup after enrollment
+    - now we can see what division the user is enrolled to and its sorted based on the priority
+    
+    * fix[dashboard/divisi, divisiPilihan.tsx]: benerin biar divisi yang dipilih itu ditampilkan berdasar prioritas, hilangin user di dashboard untuk sementara, kalo blm ada divisi pilihan, tampilin message
+    
+    * feat: dashboard is now on '/' when user is logged in (#6)
+    
+    changed route from /dashboard to /
+    
+    * fix: '/' route landing page not viewable if not logged in
+    
+    * fix[landing-page]: menambahkan x button di less than small screen navbar, fix yg lainnya bro pokoknya
+    
+    * feat(auth): client side validation with react hook form
+    
+    * fix[navbar]: fix navbar layout
+    
+    * fix(prod): temporary fix for conditional rendering on landing page
+    
+    * fix[prod]: import rules, logos, etc
+    
+    * fix: transparent navbar
+    
+    * fixed: popup pengumuman dan wawancara
+    
+    * fixed: permintaan sultan
+    
+    ---------
+    
+    Co-authored-by: vityasyyy <argyavityasy1208@gmail.com>
+    Co-authored-by: devve <108273639+sultandevin@users.noreply.github.com>
+    Co-authored-by: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+    Co-authored-by: Andreandhiki <andhiki28@gmail.com>
+
+[33mcommit 06e63f780647f5267621f7347085ca1e151d7419[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 22:57:34 2024 +0700
+
+    fixed: SULTAN ANJJ
+
+[33mcommit ae9e7783aff63bd28de48035058f13c544c243f4[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 22:12:52 2024 +0700
+
+    fixed: semua popup SULTAN
+
+[33mcommit 603b49f5826fb9300fc7b7439dad2b78123a0d26[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 17:30:27 2024 +0700
+
+    fixed: permintaan sultan
+
+[33mcommit bf62f682756bc25d7bc8aedba46898b720ff0bee[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 13:31:44 2024 +0700
+
+    fixed: popup pengumuman dan wawancara
+
+[33mcommit ad867509595c643ddc929c0a2e64edf317c66412[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 22:08:19 2024 +0700
+
+    fix[divisi/slug]: fixed setting cookies after pilih divisi
+
+[33mcommit 7438ba66d71c877aa6a472a13c9ab1744b3cf481[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 22:07:42 2024 +0700
+
+    build: added Cookies js-cookie for setting cookies client side
+
+[33mcommit 98a9bbb3ae970da0d871a45bd1071c4c52a80480[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 22:06:53 2024 +0700
+
+    fix[backend]: fixed backend to set new cookies and tokens and shit after pilih divisi
+
+[33mcommit 8bf09e2ebbbfe98be388ed3c229aa73fe86fe575[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 21:50:48 2024 +0700
+
+    fix: seed ama wawancara harusnya sudah benar
+
+[33mcommit c7952fa0858a84cac21bf36ed7ad31a79d55f545[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 21:48:56 2024 +0700
+
+    feat[VERYBREAKINGCHANGE]: wawancara halaman udah bisa pilih wawancara
+
+[33mcommit 110f774eb4523ebc22f4f9c8dd88fb992acdd0a3[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 19:32:08 2024 +0700
+
+    fix[middleware, backend]: fixed infinite redirect kontol(semoga ga rusak lagi), sama ngefilter wawancara
+
+[33mcommit f7315a962dd9457767b5f4f6c085ba1417c3733d[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 21:43:38 2024 +0700
+
+    fix: update logo format, improve layout styles, and enhance accessibility
+
+[33mcommit 196205e7290cf18b5fd603c26497bc7db2d6c4b7[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 19:00:13 2024 +0700
+
+    feat: fetching pilihan wawancara sudah
+
+[33mcommit d3f563b6e06f685b93262fb0c2ff6b5d7c4a2eb7[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 18:38:32 2024 +0700
+
+    chore: merge conflict dah bener
+
+[33mcommit 33a93cd54080cb11511c102d7b3be9c0759d3832[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 18:33:13 2024 +0700
+
+    fix: attach new headers for wawancara, merge conflict asu
+
+[33mcommit bb3d58898833ee05b8c263ade06112d9ae1ba0e0[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 00:40:41 2024 +0700
+
+    fix: attach prioritasSlug ke token buat wawancara
+
+[33mcommit e2cf72b84b9a7d28bf17ffc3252549a68dcce13f[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 17:53:42 2024 +0700
+
+    fix:
+    - pending state ui change in auth
+    - mini footer component (auth page)
+    - fixed component in divisi that links to wawancara
+
+[33mcommit fe1cf53007561d4054836c8537cc0ab1c3f8d535[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 22:08:19 2024 +0700
+
+    fix[divisi/slug]: fixed setting cookies after pilih divisi
+
+[33mcommit 3153c8368a65a836a320e0966c61cdcfe12f6a07[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 22:07:42 2024 +0700
+
+    build: added Cookies js-cookie for setting cookies client side
+
+[33mcommit e8875823cdc83f0f15488f2ebc76d638be80e2e1[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 22:06:53 2024 +0700
+
+    fix[backend]: fixed backend to set new cookies and tokens and shit after pilih divisi
+
+[33mcommit b2239fcf12cd9b31898c9ab61d6789a4ffc7701a[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 21:50:48 2024 +0700
+
+    fix: seed ama wawancara harusnya sudah benar
+
+[33mcommit 305cfa5ca3540f0d27811d94c5a1fafc0389017e[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 21:48:56 2024 +0700
+
+    feat[VERYBREAKINGCHANGE]: wawancara halaman udah bisa pilih wawancara
+
+[33mcommit 195d6b3a04d886fffecb351356b70776c06ed1dd[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 19:32:08 2024 +0700
+
+    fix[middleware, backend]: fixed infinite redirect kontol(semoga ga rusak lagi), sama ngefilter wawancara
+
+[33mcommit bf477f19e1ca48b2859acbfda4db2aa8479ca0d3[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 21:43:38 2024 +0700
+
+    fix: update logo format, improve layout styles, and enhance accessibility
+
+[33mcommit 8cd5583634b06a5c08a61cb01cf809d0ad2feab2[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 19:00:13 2024 +0700
+
+    feat: fetching pilihan wawancara sudah
+
+[33mcommit 85743ac84a05a204d2b0c8a51f3acb9ff5fceaaa[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 18:38:32 2024 +0700
+
+    chore: merge conflict dah bener
+
+[33mcommit a1565b15896aabf1c4fe6f20307f9be20dcb134d[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 18:33:13 2024 +0700
+
+    fix: attach new headers for wawancara, merge conflict asu
+
+[33mcommit 12069b25626d2757adfe7ca45d069863da3f27f7[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Nov 3 00:40:41 2024 +0700
+
+    fix: attach prioritasSlug ke token buat wawancara
+
+[33mcommit 61b9905100e76b79ce754cc613a18dfe8ffa976d[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 17:53:42 2024 +0700
+
+    fix:
+    - pending state ui change in auth
+    - mini footer component (auth page)
+    - fixed component in divisi that links to wawancara
+
+[33mcommit 48650a0db0b516e116b840244b254b57b8a6424a[m
+Author: Fahmi Shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 17:36:46 2024 +0700
+
+    fix: popup pengumuman (#5)
+    
+    * feature: pop up
+    
+    * feat: semua pop up insyaallah sudah ya
+    
+    * fix: pop up logout
+    
+    * fix: pop up logout
+    
+    * fixed: popup logout
+    
+    * feat: added all fetching, sudah bisa fetching semua hal. console log juga ada di divisi.tsx components
+    
+    * fix[backend]: returns the correct divisi pilihan and fixed seed a bit to avoid duplicate data
+    
+    * fix[fetch, divisi slug, popup]:
+    - fixed fetching
+    - fixed popup to add logic inside the enrollment popup and fixed the success popup after enrollment
+    - now we can see what division the user is enrolled to and its sorted based on the priority
+    
+    * fix[dashboard/divisi, divisiPilihan.tsx]: benerin biar divisi yang dipilih itu ditampilkan berdasar prioritas, hilangin user di dashboard untuk sementara, kalo blm ada divisi pilihan, tampilin message
+    
+    * feat: dashboard is now on '/' when user is logged in (#6)
+    
+    changed route from /dashboard to /
+    
+    * fix: '/' route landing page not viewable if not logged in
+    
+    * fix[landing-page]: menambahkan x button di less than small screen navbar, fix yg lainnya bro pokoknya
+    
+    * feat(auth): client side validation with react hook form
+    
+    * fix[navbar]: fix navbar layout
+    
+    * fix(prod): temporary fix for conditional rendering on landing page
+    
+    * fix[prod]: import rules, logos, etc
+    
+    * fix: transparent navbar
+    
+    * fixed: popup pengumuman dan wawancara
+    
+    * fixed: permintaan sultan
+    
+    ---------
+    
+    Co-authored-by: vityasyyy <argyavityasy1208@gmail.com>
+    Co-authored-by: devve <108273639+sultandevin@users.noreply.github.com>
+    Co-authored-by: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+    Co-authored-by: Andreandhiki <andhiki28@gmail.com>
+
+[33mcommit 8ec366b4abfb0007e51a0606ef075c2b712b12c8[m
+Merge: 1170eae 1fdba3d
+Author: devve <108273639+sultandevin@users.noreply.github.com>
+Date:   Sun Nov 3 17:35:40 2024 +0700
+
+    Merge branch 'main' into fixed/popuop.fahmi
+
+[33mcommit 1170eae6a26e669dd66ca87ad3098a5e662b1cdf[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 17:30:27 2024 +0700
+
+    fixed: permintaan sultan
+
+[33mcommit e767a4bf2551acea442e1102e0b6e5fb5fbc2dda[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Nov 3 13:31:44 2024 +0700
+
+    fixed: popup pengumuman dan wawancara
+
+[33mcommit fbc822e2e2c65e6b7f6acfb8dfbee91baf86f713[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 13:02:24 2024 +0700
+
+    fix: transparent navbar
+
+[33mcommit 06adfec6fef98049b1de57ff455f5eeae21331db[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Nov 3 13:01:18 2024 +0700
+
+    fix[prod]: import rules, logos, etc
+
+[33mcommit b0a9d474040b6ff50483e98b353d0a1a89ad7dfd[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 12:37:49 2024 +0700
+
+    fix(prod): temporary fix for conditional rendering on landing page
+
+[33mcommit 65ad2be06e0e0ab0b06cafcbc97c7200a667ca81[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Nov 3 03:13:32 2024 +0700
+
+    fix[navbar]: fix navbar layout
+
+[33mcommit 90495f9dd6a6a6037413e1035a633b08424a8f86[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 01:19:50 2024 +0700
+
+    feat(auth): client side validation with react hook form
+
+[33mcommit 46652e770b21eee7724622509bed90d591c8e20a[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sat Nov 2 21:32:22 2024 +0700
+
+    fix[landing-page]: menambahkan x button di less than small screen navbar, fix yg lainnya bro pokoknya
+
+[33mcommit ecd1d5b93deabd4509e1824c0a4a2c6068e3b2ca[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sat Nov 2 01:45:21 2024 +0700
+
+    fix: '/' route landing page not viewable if not logged in
+
+[33mcommit 522d0cfb2e7d978d78083d18a4d067a1ab2979aa[m
+Author: devve <108273639+sultandevin@users.noreply.github.com>
+Date:   Fri Nov 1 22:55:40 2024 +0700
+
+    feat: dashboard is now on '/' when user is logged in (#6)
+    
+    changed route from /dashboard to /
+
+[33mcommit 771ee2ed76fe57ee21aa59bb9b8a40c396899b74[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 22:53:54 2024 +0700
+
+    fix[dashboard/divisi, divisiPilihan.tsx]: benerin biar divisi yang dipilih itu ditampilkan berdasar prioritas, hilangin user di dashboard untuk sementara, kalo blm ada divisi pilihan, tampilin message
+
+[33mcommit dcd0c1be2208d7573771ef408840dd8e892dd037[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 22:43:08 2024 +0700
+
+    fix[fetch, divisi slug, popup]:
+    - fixed fetching
+    - fixed popup to add logic inside the enrollment popup and fixed the success popup after enrollment
+    - now we can see what division the user is enrolled to and its sorted based on the priority
+
+[33mcommit b9621d59b92e73de646cfe851f28ff16bddc0729[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 22:40:06 2024 +0700
+
+    fix[backend]: returns the correct divisi pilihan and fixed seed a bit to avoid duplicate data
+
+[33mcommit 2779f1a4e3d42efb9a25b99486ce610a3f558fa7[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 18:40:49 2024 +0700
+
+    feat: added all fetching, sudah bisa fetching semua hal. console log juga ada di divisi.tsx components
+
+[33mcommit 1fdba3df303a9381dee64742477605a59a5ab6cb[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 13:02:24 2024 +0700
+
+    fix: transparent navbar
+
+[33mcommit bd3cc89225cd3cfa1d61bb04cb2c4fc33fbfdb7e[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Nov 3 13:01:18 2024 +0700
+
+    fix[prod]: import rules, logos, etc
+
+[33mcommit 67351d7eea188d5526b4aa3437a5f25351e073d4[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 12:37:49 2024 +0700
+
+    fix(prod): temporary fix for conditional rendering on landing page
+
+[33mcommit 9af3df18e512dc6d11714817f876d2ace2b3cdf1[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Nov 3 03:13:32 2024 +0700
+
+    fix[navbar]: fix navbar layout
+
+[33mcommit 17ea44a41d63bcbff1ddbcdf678bef5468bf23ac[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Nov 3 01:19:50 2024 +0700
+
+    feat(auth): client side validation with react hook form
+
+[33mcommit 33c7e14629824ca48e0d1bfc4f0d446c9b88e08e[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sat Nov 2 21:32:22 2024 +0700
+
+    fix[landing-page]: menambahkan x button di less than small screen navbar, fix yg lainnya bro pokoknya
+
+[33mcommit 98063547575a2d022a6998a633c84a2516c84026[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sat Nov 2 01:45:21 2024 +0700
+
+    fix: '/' route landing page not viewable if not logged in
+
+[33mcommit 6081d61b1951cda460b23c4cb9dc6cd03b3c6257[m
+Author: devve <108273639+sultandevin@users.noreply.github.com>
+Date:   Fri Nov 1 22:55:40 2024 +0700
+
+    feat: dashboard is now on '/' when user is logged in (#6)
+    
+    changed route from /dashboard to /
+
+[33mcommit 96d466474bcf113e124ac1758488a4f7c456b888[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 22:53:54 2024 +0700
+
+    fix[dashboard/divisi, divisiPilihan.tsx]: benerin biar divisi yang dipilih itu ditampilkan berdasar prioritas, hilangin user di dashboard untuk sementara, kalo blm ada divisi pilihan, tampilin message
+
+[33mcommit ba29bac70cdcad8c7eb57eb7edaa2576936925bc[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 22:43:08 2024 +0700
+
+    fix[fetch, divisi slug, popup]:
+    - fixed fetching
+    - fixed popup to add logic inside the enrollment popup and fixed the success popup after enrollment
+    - now we can see what division the user is enrolled to and its sorted based on the priority
+
+[33mcommit 4453ad7bd042ab66430656d8ed4bd5c5aa024a99[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 22:40:06 2024 +0700
+
+    fix[backend]: returns the correct divisi pilihan and fixed seed a bit to avoid duplicate data
+
+[33mcommit d5d6662c169587326ad7925902d3f1bf3c7b4ea1[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 1 17:25:43 2024 +0700
+
+    fixed: popup logout
+
+[33mcommit bb9974ba017dfdb77fca5537122382804eb94bb7[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 1 17:15:41 2024 +0700
+
+    fix: pop up logout
+
+[33mcommit 5ade3ccae4a34ee636d0290e1b3370f1e159543f[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 1 17:08:41 2024 +0700
+
+    fix: pop up logout
+
+[33mcommit d153d50c716994018145493cf709f25041d580bc[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 1 11:35:31 2024 +0700
+
+    feat: semua pop up insyaallah sudah ya
+
+[33mcommit b77243ae4ab930064c9000af5f2e490415c58045[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Thu Oct 31 23:31:21 2024 +0700
+
+    feature: pop up
+
+[33mcommit e563dfba3680e1121f1708904def4d2b5417995c[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 18:40:49 2024 +0700
+
+    feat: added all fetching, sudah bisa fetching semua hal. console log juga ada di divisi.tsx components
+
+[33mcommit 125c48dc7e12f897cebf81b1e5063eb57d682ff5[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 1 17:25:43 2024 +0700
+
+    fixed: popup logout
+
+[33mcommit 1ba8f12fedb733ecb731e3a082c13f3a6246bf24[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 1 17:15:41 2024 +0700
+
+    fix: pop up logout
+
+[33mcommit 5834354e7ec24d417228b136d7c685556ba7637d[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 1 17:08:41 2024 +0700
+
+    fix: pop up logout
+
+[33mcommit de0de5d0a7c082303a3869d2721726c0be99cb2e[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Fri Nov 1 11:35:31 2024 +0700
+
+    feat: semua pop up insyaallah sudah ya
+
+[33mcommit e467fb67666cc2e3860757d76d9ff1ef656e9f6d[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Thu Oct 31 23:31:21 2024 +0700
+
+    feature: pop up
+
+[33mcommit 51a56acc87c59b87a4e36419f2e0874d02eb0524[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 17:13:23 2024 +0700
+
+    chore: add seed.ts for seeding and FUCKASS
+
+[33mcommit dad9d5eda2f281a0605c247c90c26ea4ec2a2549[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 14:15:45 2024 +0700
+
+    fix[divisi n divisi/slug BREAKING CHANGES]: added fetching from backend, no longer need helper
+
+[33mcommit 8a54786e50962c49c681d66202cf6e3066815552[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 14:14:47 2024 +0700
+
+    feat: added getAllWawancara for frontend
+
+[33mcommit 064c4873d9160d268b71806556b67f142523e96d[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 09:01:57 2024 +0700
+
+    fix[middleware]: gaperlu pake start with ea ea
+
+[33mcommit d9d04172444fe6920b3c7824b09577e2988f932d[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 09:00:05 2024 +0700
+
+    fix: fixed the middleware, make temporary registration page, and fixed the logout so that it can log out LOG THE FUCK OUT
+
+[33mcommit 51844fe762c4197b50584e2824f735e141819d5e[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Fri Nov 1 08:57:55 2024 +0700
+
+    fix: fixed user schema to include accessToken and refreshToken, and fixed the controllers accordingly
+
+[33mcommit 999bc8ddb117f761a61a1791a400dcca93995e84[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Thu Oct 31 23:33:37 2024 +0700
+
+    fix: public route /dashboard
+
+[33mcommit 3fae8aa7de4ae9dee8606578a56f90eee1037617[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Oct 31 20:48:12 2024 +0700
+
+    feat: fetch user SSR LESGO FUCK, and fetch and utils etc etc
+
+[33mcommit 71ae8754f56d3520d82f2d6600c1fdb31166ed19[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Oct 31 17:31:47 2024 +0700
+
+    fix: fixed userController to remove unecessary logging, fixed middlewares in frontend and backend to synchronize, and fix middlewares frontend to refresh before invalidating user request
+
+[33mcommit a548cffadb00a379d3dd14e00c15952d3acb2aa0[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Thu Oct 31 16:13:37 2024 +0700
+
+    feat[login]: add ui in login page only
+
+[33mcommit 8e8a73f4370c99f980874eb518f1c1310ed0c26c[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Oct 31 15:36:43 2024 +0700
+
+    fix[middleware]: infinite redirect middleware
+
+[33mcommit 81a959568b43b0aba92326e7a3c63ac4f4be2bc6[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Thu Oct 31 15:06:41 2024 +0700
+
+    fix: fixed userController in backend to add isAuthenticated field. and fix frontend to have middleware LETS FUCKONG GOO
+
+[33mcommit 782ac3da202df07c58399b2fdb963b7d968e4ce4[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Thu Oct 31 15:03:33 2024 +0700
+
+    feat[divisi]: slug divisi sudah ready tinggal fetch tiap divisi uhuy
+
+[33mcommit 042431e1b0df075fac6ff6767ca2ccb71d69620f[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Oct 30 20:27:13 2024 +0700
+
+    fix[divisi]: nambahin isi slug divisi
+
+[33mcommit be8fddff9dc41f0c9e58a39eb8e8a136d8cf648c[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Thu Oct 31 14:29:09 2024 +0700
+
+    feat:
+    - admin page
+    - fixed text size in landing page
+
+[33mcommit 1d54b1cddfc214ad4ebef9435f71e748b7f3059a[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Oct 30 14:26:51 2024 +0700
+
+    chore: moved constant to libs
+
+[33mcommit a9a1bff7952332d328fa8b690143ec612bf14372[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Oct 30 18:59:58 2024 +0700
+
+    fix: fixed payload to add isAdmin and added validation method in user for frontend
+
+[33mcommit d6cc6daf1d7d77ae30815dfcfdeb106f7cd0e630[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Oct 30 18:59:35 2024 +0700
+
+    build: add package for cors and mongo sanitize
+
+[33mcommit 83b4ed8af2473a83f50ac4b6ff262de9070db36e[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Oct 30 14:47:14 2024 +0700
+
+    fix[yarnlock]: fix
+
+[33mcommit 0bf2e918d78dc652354b4211fac95d776eed444d[m
+Merge: 188870f 0064bf0
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Wed Oct 30 14:02:06 2024 +0700
+
+    Merge pull request #3 from OmahTI-UGM/feature/footer.andre
+    
+    Feature/footer.andre
+
+[33mcommit 188870fc09d50d529ff6a0070429ff1da5ae7e68[m
+Merge: 60515ce cd36b9e
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Wed Oct 30 14:01:45 2024 +0700
+
+    Merge pull request #2 from OmahTI-UGM/fixed/landingpage.fahmi
+    
+    Fixed/landingpage.fahmi
+
+[33mcommit 0064bf0eb7d54fbfdb89967aaea2d3422b42c916[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Oct 30 13:58:34 2024 +0700
+
+    feat[footer]: add footer
+
+[33mcommit cd36b9e8c7fab7d7fdb49144e39e3a61b5c69713[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Wed Oct 30 11:17:52 2024 +0700
+
+    fixed(landingpage): insyaallah jadi
+
+[33mcommit 0ccc5b0074b4b57adc5014f7d4477e9d1b55d556[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Oct 27 21:29:56 2024 +0700
+
+    feat(wawancara): alert button pilih
+
+[33mcommit 89866b91c963ccaafdcf01eaa40e94ffa4c5bcf4[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Oct 27 21:29:34 2024 +0700
+
+    feat(wawancara): alert button pilih
+
+[33mcommit ac6690757d2d77587787899ae934d3729c38c2f2[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Sun Oct 27 21:08:01 2024 +0700
+
+    feat(wawancara): button pilih
+
+[33mcommit 60515ce5811999e544b8bf1d25d229c38b9343f4[m
+Merge: ab10ec5 286f728
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Tue Oct 29 23:29:46 2024 +0700
+
+    refactor: update image size in Hero component
+
+[33mcommit ab10ec55d6bd19a3139cf89f92330e0f33cf64ac[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Tue Oct 29 23:17:31 2024 +0700
+
+    feat: diddy
+
+[33mcommit 286f72857dfac3fea2b7fdedef1d597a93c66bef[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Tue Oct 29 23:17:31 2024 +0700
+
+    feat: diddy
+
+[33mcommit b28aa8bce6b0186f5a55b5a540c79cdd19a9f5dd[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Tue Oct 29 23:02:44 2024 +0700
+
+    fix: removed unecessary logging
+
+[33mcommit 68eaf4e72422676915fb3c540d1cddf27b861c93[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Tue Oct 29 23:00:14 2024 +0700
+
+    feat: add password reset feature
+
+[33mcommit 231e0ab36946a0c3b35cfa6cb0bec4d655998715[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Tue Oct 29 22:36:36 2024 +0700
+
+    build: new dependencies for emailing
+
+[33mcommit cb3322ca03eb911e71745f07b06945bc300bc3ee[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Tue Oct 29 22:54:30 2024 +0700
+
+    feat: made landing page
+
+[33mcommit 1d9c38a4d863408264442c131a066378a9400248[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Mon Oct 28 15:08:19 2024 +0700
+
+    feat[divisi]: membuat layout di slug divisi
+
+[33mcommit 56217a910e49460e5e2853198011ee4a8054007e[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Oct 28 19:19:15 2024 +0700
+
+    fix: benerin wawancara, terus get wawancara, dsb lah MANGO MANGO MANGO
+
+[33mcommit 7084a57036c4ff11a67d29d1e2ff102d051967c5[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Oct 28 14:08:58 2024 +0700
+
+    fix:
+    - token payload gaperlu alay
+    - endpoint buat fetch divisi ama jam wawancara
+
+[33mcommit 4bcc06d176cf70eadec6cd66e4eb6b848fb329ae[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Oct 28 11:58:42 2024 +0700
+
+    fix [breaking changes]:
+    - fixed payload and shit and refactoring code and shit u feel me bro
+    -noradrenaline, those who know, balkan rage, mango mango mango, nonchaln
+
+[33mcommit d41e64335acf9c1b989514f70b0b686fed6f8999[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Sun Oct 27 22:13:47 2024 +0700
+
+    fix[breaking changes]:
+    - fixed token payloads
+    - moved interfaces to it's own file instead of inside the models file
+    - fixed wawancara tidak boleh nabrak (BELOM BENER NGENTOT)
+    - intinya refactor kode
+
+[33mcommit 311a228f6c2c510dd1f63847c9a57166adff61bb[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sat Oct 26 11:54:32 2024 +0700
+
+    feat[divisi]: add divisi himakom and omahti and add to divisi card
+
+[33mcommit 023c1652897abc5e1a16d29dea5d614152a50a9f[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Thu Oct 24 16:03:52 2024 +0700
+
+    fix[title]: benerin warna
+
+[33mcommit 1b5e86e30eb40a2ffbbac3eaed39c0f1c483a601[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Thu Oct 24 15:59:53 2024 +0700
+
+    fix[app]: benerin layout bos
+
+[33mcommit f3e8943fd9bdc245a19be2105bffae718abb57b0[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Oct 23 19:40:35 2024 +0700
+
+    feat[config]: add color config
+
+[33mcommit c97c211e18bdf6f9f3a64b7cab1b675263c8897c[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Oct 23 21:51:16 2024 +0700
+
+    fix: changed pilihDivisi biar bisa ngambil prioritas dan sebagainya, intinya sesuai figma bos
+
+[33mcommit c2c518abbc8e3faa87aca35210f26d20ff11af1a[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Oct 23 17:36:00 2024 +0700
+
+    fix[title]: flexnya bosssssss
+
+[33mcommit 26c3e9b9622b206c4f0874fedf2125149df7ba28[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Oct 23 17:07:20 2024 +0700
+
+    feat: added penugasan submit, not allowed to pilih wawancara if nabrak jadwal asu
+
+[33mcommit bda999092b59a09a9b857cd976f82900f91eaf7f[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Oct 23 14:29:25 2024 +0700
+
+    fix & feat [breaking changes]:
+    - tipis tipis abangku(andreandhiki)
+    - changed git ignore
+    - refactored divisiControllers for user enrollment
+    - fixed wawancaraModels to have himakom
+    - fixed userModels to have priority and tanggal in user object
+    - fixed index.ts
+    - added choosing tanggal wawancara for user
+
+[33mcommit bc0ad9f966141ab7a6154386256ceee5b87a060c[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Oct 23 12:00:21 2024 +0700
+
+    fix[title]: fix line height in small screen
+
+[33mcommit 2106d0dd4820e913c32729baa86c48f82308e2ac[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Oct 23 11:47:01 2024 +0700
+
+    feat[navbar]: fix layout bug so more responsive
+
+[33mcommit 6b84d8bbe0228c9ffc0464322a4aeefea79ce26b[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Wed Oct 23 11:30:28 2024 +0700
+
+    feat[divisi]: used swiper for scrolling
+
+[33mcommit aa949d55a875dd4920e51ac0e2651990ec53bfe6[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Tue Oct 22 13:39:44 2024 +0700
+
+    feat[divisi]: scrollable divisi lengkap sama divisi pilihan
+
+[33mcommit 223a8ab9479722d5d4b383a6e9c2af4a9cf79ebd[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Wed Oct 23 10:56:19 2024 +0700
+
+    feat & fix [BC]:
+    - modified gitignore to ignore seeding
+    - changed token payload
+    - fixed all models temporarily
+    - fixed auth middleware
+    - added sudahMemilih middleware for wawancara
+    - added memilih divisi and get division feature
+    - added new Interface that attach user in request
+
+[33mcommit 4916c4faca634714a903632f98355bdd1d6e7a7d[m
+Merge: 840257a 2276d93
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Wed Oct 23 10:53:22 2024 +0700
+
+    Merge pull request #1 from OmahTI-UGM/feature/buttonwawacara.fahmi
+    
+    button untuk ke halaman wawancara
+
+[33mcommit 2276d93745d2521d204f50dc9c23cc16f79308d5[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Tue Oct 22 12:59:26 2024 +0700
+
+    button untuk ke halaman wawancara
+
+[33mcommit 840257a1a12d48a2e26bd5a6f78e8f1f84607861[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Tue Oct 22 11:33:40 2024 +0700
+
+    fix[divisi]: fixed overflow
+
+[33mcommit 99ff25fbbb711111e1655873373024c1f6aa6ed7[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Oct 21 17:57:32 2024 +0700
+
+    build: added swiperjs
+
+[33mcommit fd61ffbb6ecf1c681486c8473403269041c43eea[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Oct 21 22:14:28 2024 +0700
+
+    fix: fixed token payload in user controllers
+
+[33mcommit e58ad94500738bbc2261c8924d884c24b1c39a50[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Oct 21 22:09:07 2024 +0700
+
+    feat: all database schema defined, fixed token payload
+
+[33mcommit 8a39983a3332df36ae489eb87fd36eb78bd86f43[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Oct 21 17:45:43 2024 +0700
+
+    feat[divisi]: initial card buat seluruh kelas
+
+[33mcommit 06e96cb96779ec6b7cc9d01562fcb8d1e983115c[m
+Author: shampoerna <153973086+shampoerna@users.noreply.github.com>
+Date:   Mon Oct 21 17:44:48 2024 +0700
+
+    feat(detail): join card
+
+[33mcommit 76767d299166ca181bd0c08ac07e25cc6126a8de[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Mon Oct 21 16:21:59 2024 +0700
+
+    chore: update readme em de
+
+[33mcommit 9fd51dfdf9372d6cd24eb2f956f1174620ae6e06[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Oct 21 16:20:25 2024 +0700
+
+    feat: add global .gitignore
+
+[33mcommit c4a4c3d5b7a678c6247cc46fbe6e51cc24c707a2[m
+Author: vityasyyy <argyavityasy1208@gmail.com>
+Date:   Mon Oct 21 16:19:47 2024 +0700
+
+    init[backend]: initial commit, there's already authentication using jwt refresh and access token with cookies also :>
+
+[33mcommit dde2ce8a09d5da9f17a7a77a39547232a9c04ada[m
+Author: Argya Vityasy <149230734+vityasyyy@users.noreply.github.com>
+Date:   Mon Oct 21 16:17:55 2024 +0700
+
+    chore: update readme em de
+
+[33mcommit 7111e6111c5c032042085f8ade5b2989451cb8e8[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Oct 21 13:12:07 2024 +0700
+
+    feat:
+    - halaman wawancara
+
+[33mcommit 352820a016417da7cbbaf9bbff7de32caefcfbe7[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Oct 21 13:11:50 2024 +0700
+
+    build: tailwind prettier
+
+[33mcommit 839ccba9306ff1d1bfc490fd296e6a91a39bde47[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Oct 21 02:26:11 2024 +0700
+
+    feat:
+    - added a container component
+    - added modal for logout
+    - fixed navbar active state
+
+[33mcommit 6a1266bbb5321a681d716f53ed49e64b88b605c3[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Mon Oct 21 02:26:11 2024 +0700
+
+    feat[divisi]: made a container component and fixed navbar active state
+
+[33mcommit b597ae4b578220ae84e8357d029837fcd551b502[m
+Author: Devin <sultandevinosuyudi@mail.ugm.ac.id>
+Date:   Sun Oct 20 22:51:17 2024 +0700
+
+    fix[hero]: removed use client
+
+[33mcommit 68a447e8ca1ecdf23ac2fd0edf14e70097e2eea5[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Sun Oct 20 22:54:44 2024 +0700
+
+    feat: nambahin navbar
+
+[33mcommit b2c871040ffbb93e7cce7b618cda25bbf2e00ee8[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Thu Oct 17 00:02:46 2024 +0700
+
+    fix: fixing navbar size layout
+
+[33mcommit 3dffddf7d32a6d41d94f78c16c234aee5fbcc8c1[m
+Author: devve <108273639+sultandevin@users.noreply.github.com>
+Date:   Sun Oct 20 22:12:56 2024 +0700
+
+    chore: updated readme
+
+[33mcommit 4dcbcee26a6eba1a12982d49bf4ca0c8b6747ed8[m
+Author: devve <108273639+sultandevin@users.noreply.github.com>
+Date:   Sun Oct 20 22:12:39 2024 +0700
+
+    chore: updated readme
+
+[33mcommit aea679a2d2e6488cdcb39de3d6a4329f387a4e00[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Wed Oct 16 17:12:56 2024 +0700
+
+    feat: add sidebar, scrollbar, and loading animation
+
+[33mcommit ccf24a8fa43ae67662ff81eeaaf25ebad0ee7f27[m
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Wed Oct 16 13:31:10 2024 +0700
+
+    fix: update readme
+
+[33mcommit 5aecbd12270ca9d984ee3cd126bb1ef3cf937853[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Tue Oct 15 15:05:49 2024 +0700
+
+    feat: add layout
+
+[33mcommit 1c70e3f65eac2a2528915b829f33778faa8b4d5c[m
+Merge: 824c269 46b2fb6
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Tue Oct 15 00:59:52 2024 +0700
+
+    fix: merge
+
+[33mcommit 824c2694a9c0d4f419214134208c30828590c279[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Tue Oct 15 00:59:18 2024 +0700
+
+    feat: add config for color
+
+[33mcommit 46b2fb6e1617b7d024684c055fa8bd59bb855eb1[m
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Mon Oct 14 23:09:30 2024 +0700
+
+    fix: update readme
+
+[33mcommit a393fc7edcc3f1b775dab54ab5eb9c9a296c4ac4[m
+Author: Andreandhiki <andhiki28@gmail.com>
+Date:   Mon Oct 14 23:08:04 2024 +0700
+
+    feat: add smooth scroll
+
+[33mcommit d59f2d1fb1f425ddaca64e417382f6db1c94559a[m
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Fri Sep 20 20:16:37 2024 +0700
+
+    fix[readme]: update readme
+
+[33mcommit 768d292954a997994c906adf72a7386b8ef8a284[m
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Fri Sep 20 20:01:47 2024 +0700
+
+    fix[Readme]: Update Readme
+
+[33mcommit fb7b1d5f98d0ef83ef10bc960bc453fbeda01149[m
+Author: salmon <77545971+Andhiki@users.noreply.github.com>
+Date:   Fri Sep 20 19:48:57 2024 +0700
+
+    Initial commit
