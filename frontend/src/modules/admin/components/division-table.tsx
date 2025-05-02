@@ -1,18 +1,116 @@
 import { Button } from "@/components/ui/button";
 import { formatDate } from "@/lib/utils";
-import { EyeIcon } from "lucide-react";
+import { Eye } from "lucide-react";
 import Link from "next/link";
 
-const DivisionTable = ({ allUsers, admin }: { allUsers: any; admin: any }) => {
-  const getDipilihOlehAndJam = (sesi: any[], userId: string) => {
-    const sesiMatched = sesi?.find((sesiItem) =>
-      sesiItem.dipilihOleh?.includes(userId),
-    );
-    if (sesiMatched) {
-      return { dipilihOleh: sesiMatched.dipilihOleh, jam: sesiMatched.jam };
-    }
-    return { dipilihOleh: null, jam: null };
+// Dummy data for users
+const dummyUsers = [
+  {
+    _id: "1",
+    username: "Fahmi Shampoerna",
+    divisiPilihan: [
+      {
+        _id: "d1",
+        urutanPrioritas: 1,
+        divisiId: { slug: "hr", himakom: true },
+      },
+      {
+        _id: "d2",
+        urutanPrioritas: 2,
+        divisiId: { slug: "uiux", himakom: false },
+      },
+    ],
+    tanggalPilihanHima: {
+      tanggalId: { sesi: "sesi-hima-1" },
+    },
+    tanggalPilihanOti: {
+      tanggalId: { sesi: "sesi-oti-1" },
+    },
+    enrolledSlugHima: "admin123",
+    enrolledSlugOti: "admin123",
+    tugas: [{ link: "https://github.com/johndoe/project" }],
+  },
+  {
+    _id: "2",
+    username: "Jane Smith",
+    divisiPilihan: [
+      {
+        _id: "d3",
+        urutanPrioritas: 1,
+        divisiId: { slug: "uiux", himakom: false },
+      },
+    ],
+    tanggalPilihanHima: null,
+    tanggalPilihanOti: {
+      tanggalId: { sesi: "sesi-oti-2" },
+    },
+    enrolledSlugHima: "",
+    enrolledSlugOti: "admin123",
+    tugas: [{ link: "https://figma.com/janesmith/mockup" }],
+  },
+  {
+    _id: "3",
+    username: "Sultan Devino",
+    divisiPilihan: [
+      {
+        _id: "d4",
+        urutanPrioritas: 1,
+        divisiId: { slug: "frontend", himakom: false },
+      },
+      {
+        _id: "d5",
+        urutanPrioritas: 2,
+        divisiId: { slug: "ipc", himakom: true },
+      },
+    ],
+    tanggalPilihanHima: {
+      tanggalId: { sesi: "sesi-hima-3" },
+    },
+    tanggalPilihanOti: null,
+    enrolledSlugHima: "admin123",
+    enrolledSlugOti: "",
+    tugas: [],
+  },
+];
+
+// Dummy admin data
+const dummyAdmin = {
+  username: "admin123",
+};
+
+// Helper function to simulate getting interview schedule data
+const getDipilihOlehAndJam = (sesi: string, userId: string) => {
+  // Dummy implementation
+  const sessions: Record<string, { dipilihOleh: string; jam: Date }> = {
+    "sesi-hima-1": {
+      dipilihOleh: "admin123",
+      jam: new Date("2023-05-20T10:00:00Z"),
+    },
+    "sesi-hima-2": {
+      dipilihOleh: "admin123",
+      jam: new Date("2023-05-20T13:00:00Z"),
+    },
+    "sesi-hima-3": {
+      dipilihOleh: "admin123",
+      jam: new Date("2023-05-21T09:00:00Z"),
+    },
+    "sesi-oti-1": {
+      dipilihOleh: "admin123",
+      jam: new Date("2023-05-22T14:00:00Z"),
+    },
+    "sesi-oti-2": {
+      dipilihOleh: "admin123",
+      jam: new Date("2023-05-23T11:00:00Z"),
+    },
   };
+
+  return sessions[sesi] || { dipilihOleh: null, jam: null };
+};
+
+const DivisionTable = () => {
+  // Use dummy data instead of API calls
+  const allUsers = dummyUsers;
+  const admin = dummyAdmin;
 
   return (
     <table className="w-full">
@@ -119,7 +217,7 @@ const DivisionTable = ({ allUsers, admin }: { allUsers: any; admin: any }) => {
                         variant={`white`}
                         className="max-w-32 truncate rounded-full"
                       >
-                        <EyeIcon size={14} className="mr-1 shrink-0" />
+                        <Eye size={14} className="mr-1 shrink-0" />
                         <span className="truncate">
                           {user.tugas[0].link.replace(/^https?:\/\//, "")}
                         </span>

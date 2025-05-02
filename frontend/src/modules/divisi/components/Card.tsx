@@ -22,7 +22,7 @@ const DivisiCard = ({ id, variant = "omahti", title, slug }: CardProps) => {
       </div>
 
       <div className="w-full overflow-hidden">
-        <h2 className="overflow-hidden text-ellipsis whitespace-nowrap text-4xl font-bold xl:text-5xl">
+        <h2 className="overflow-hidden text-ellipsis whitespace-nowrap text-4xl font-bold">
           {" "}
           {/* bisa juga text-clip (terserah mau pake apa) */}
           {title}

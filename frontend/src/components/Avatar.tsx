@@ -1,8 +1,9 @@
-import { getCurrentUser } from "@/utils/auth";
 import { AvatarIcon } from "@radix-ui/react-icons";
 
-const Avatar = async ({ className }: { className?: string}) => {
-  const user = await getCurrentUser();
+const Avatar = ({ className }: { className?: string}) => {
+  const user = {
+    username: 'LeBron James'
+  }
 
   return (
     <div className={`flex items-center gap-2 absolute z-10 top-0 right-0 bg-custom-gray-dark p-2 rounded-sm ${className}`}>

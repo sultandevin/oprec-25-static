@@ -35,11 +35,20 @@ const TitleCTA = () => (
     <h1 className="text-center text-3xl font-semibold drop-shadow-xl sm:text-5xl">
       Be Great. Be Us.
     </h1>
-    <Link href={`dashboard`}>
+    <nav className="flex gap-2 flex-col">
+
+    <Link href={`divisi`}>
       <Button variant={`white`} size={`lg`} className="shadow-2xl">
-        Daftar Sekarang
+        Lihat Dashboard
       </Button>
     </Link>
+
+    <Link href={`admin`}>
+      <Button variant={`secondary`} size={`lg`} className="shadow-2xl">
+        Halaman Admin 
+      </Button>
+    </Link>
+    </nav>
   </div>
 );
 

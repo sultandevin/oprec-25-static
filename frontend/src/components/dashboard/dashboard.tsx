@@ -7,11 +7,11 @@ interface UserProps {
   enrolledSlugHima: string;
 }
 
-const Dashboard = (user: UserProps) => {
+const Dashboard = () => {
   return (
     <>
         {/* <Title name={user.username} /> */}
-        <h1>Hello, {user.username}!</h1>
+        <h1>Hello, LeBron James!</h1>
     </>
   );
 };

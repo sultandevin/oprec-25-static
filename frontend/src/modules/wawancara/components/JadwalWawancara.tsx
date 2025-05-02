@@ -1,4 +1,5 @@
 // next and react modules
+import React from "react";
 
 // fetch
 interface ScheduleSlot {
@@ -8,14 +9,30 @@ interface ScheduleSlot {
   sessionId: string;
 }
 
-type DivisionType = 'backend' | 'frontend' | 'uiux' | 'dsai' | 'cp' | 'mobapps' | 'gamedev' | 'cysec' | 'ipc' | 'media' | 'pr' | 'hr' | 'snf' | 'secretary' | 'skilldev' | 'treasurer';
+type DivisionType =
+  | "backend"
+  | "frontend"
+  | "uiux"
+  | "dsai"
+  | "cp"
+  | "mobapps"
+  | "gamedev"
+  | "cysec"
+  | "ipc"
+  | "media"
+  | "pr"
+  | "hr"
+  | "snf"
+  | "secretary"
+  | "skilldev"
+  | "treasurer";
 
 interface JadwalWawancaraProps {
   variant: "himakom" | "omahti";
   disabled?: boolean;
-  slugWawancara: string;
-  pilihanDivisi: any;
-  wawancara: {
+  slugWawancara?: string;
+  pilihanDivisi?: any;
+  wawancara?: {
     himakom: boolean;
     _id: string; // ID for the tanggal item
     tanggal: Date;
@@ -38,34 +55,114 @@ interface JadwalWawancaraProps {
         secretary: { sisaSlot: number; lokasi: string };
         skilldev: { sisaSlot: number; lokasi: string };
         treasurer: { sisaSlot: number; lokasi: string };
-        hr: { sisaSlot: number; lokasi: string; };
+        hr: { sisaSlot: number; lokasi: string };
         _id: string;
       };
       _id: string;
     }[];
   }[];
   selectedSlot: ScheduleSlot | null;
-  onSlotSelect: (id: string, sesi: Date, himakom: boolean, sessionId: string) => void;
+  onSlotSelect: (
+    id: string,
+    sesi: Date,
+    himakom: boolean,
+    sessionId: string,
+  ) => void;
 }
 
 const JadwalWawancara: React.FC<JadwalWawancaraProps> = ({
   variant,
-  slugWawancara,
-  pilihanDivisi,
-  wawancara,
   disabled = false,
+  slugWawancara = "frontend",
+  pilihanDivisi = true,
   selectedSlot,
   onSlotSelect,
 }) => {
+  // Dummy data for the wawancara sessions
+  const dummyWawancara = Array.from({ length: 5 }).map((_, index) => {
+    const tanggalDate = new Date(2023, 7, 15 + index);
+    return {
+      himakom: variant === "himakom",
+      _id: `tanggal_${index}`,
+      tanggal: tanggalDate,
+      sesi: Array.from({ length: 4 }).map((_, sesiIndex) => {
+        const jamDate = new Date(tanggalDate);
+        jamDate.setHours(9 + sesiIndex, 0, 0);
+        return {
+          jam: jamDate,
+          dipilihOleh: [],
+          slotDivisi: {
+            backend: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang Backend",
+            },
+            frontend: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang Frontend",
+            },
+            uiux: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang UI/UX",
+            },
+            dsai: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang DSAI",
+            },
+            cp: { sisaSlot: Math.floor(Math.random() * 5), lokasi: "Ruang CP" },
+            mobapps: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang Mobile Apps",
+            },
+            gamedev: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang Game Dev",
+            },
+            cysec: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang Cyber Security",
+            },
+            ipc: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang IPC",
+            },
+            media: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang Media",
+            },
+            pr: { sisaSlot: Math.floor(Math.random() * 5), lokasi: "Ruang PR" },
+            snf: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang SnF",
+            },
+            secretary: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang Secretary",
+            },
+            skilldev: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang SkillDev",
+            },
+            treasurer: {
+              sisaSlot: Math.floor(Math.random() * 5),
+              lokasi: "Ruang Treasurer",
+            },
+            hr: { sisaSlot: Math.floor(Math.random() * 5), lokasi: "Ruang HR" },
+            _id: `slotDivisi_${index}_${sesiIndex}`,
+          },
+          _id: `sesi_${index}_${sesiIndex}`,
+        };
+      }),
+    };
+  });
 
   return (
     <div className="relative h-auto w-full rounded-md bg-custom-silver p-4">
       <div className="grid grid-cols-1 gap-4 overflow-x-auto xxs:grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6">
-        {wawancara.map((item) => {
-          const tanggalDate = new Date(item.tanggal);
+        {dummyWawancara.map((item, i) => {
+          const tanggalDate = item.tanggal;
 
           if (isNaN(tanggalDate.getTime())) {
-            console.error("Invalid date:", item.tanggal);
+            console.error("Invalid date");
             return null;
           }
 
@@ -78,7 +175,7 @@ const JadwalWawancara: React.FC<JadwalWawancaraProps> = ({
           });
 
           return (
-            <div key={item._id} className={`${disabled && 'opacity-80'}`}>
+            <div key={i} className={`${disabled && "opacity-80"}`}>
               <h3
                 className={`mb-2 text-center text-base font-semibold ${variant === "himakom" ? "text-custom-blue" : "text-custom-orange"}`}
               >
@@ -89,10 +186,10 @@ const JadwalWawancara: React.FC<JadwalWawancaraProps> = ({
               >
                 {date}
               </h3>
-              {item.sesi.map((session) => {
-                const jamDate = new Date(session.jam);
+              {item.sesi.map((session, i) => {
+                const jamDate = session.jam;
                 if (isNaN(jamDate.getTime())) {
-                  console.error("Invalid time:", session.jam);
+                  console.error("Invalid time");
                   return null;
                 }
 
@@ -102,12 +199,17 @@ const JadwalWawancara: React.FC<JadwalWawancaraProps> = ({
                 });
 
                 return (
-                  <div key={session._id}>
-                    {session?.slotDivisi[slugWawancara as DivisionType]?.sisaSlot > 0 ? (
+                  <div key={i}>
+                    {session.slotDivisi[slugWawancara as DivisionType]
+                      ?.sisaSlot > 0 ? (
                       <button
-                        key={session._id}
                         onClick={() =>
-                          onSlotSelect(item._id, jamDate, item.himakom, session._id)
+                          onSlotSelect(
+                            item._id,
+                            jamDate,
+                            item.himakom,
+                            session._id,
+                          )
                         }
                         className={`mb-2 w-full rounded py-2 ${
                           selectedSlot?.sessionId === session._id &&
@@ -115,10 +217,12 @@ const JadwalWawancara: React.FC<JadwalWawancaraProps> = ({
                             ? variant === "himakom"
                               ? "bg-custom-blue text-custom-silver"
                               : `bg-custom-orange text-custom-silver hover:bg-custom-orange/80 ${
-                                  disabled ? "opacity-80" : "hover:bg-custom-orange"
+                                  disabled
+                                    ? "opacity-80"
+                                    : "hover:bg-custom-orange"
                                 }`
                             : "bg-custom-gray-light text-custom-black transition-colors hover:bg-custom-gray-light/80"
-                        } ${disabled ? "opacity-60 cursor-not-allowed bg-gray-400" : ""}`}
+                        } ${disabled ? "cursor-not-allowed bg-gray-400 opacity-60" : ""}`}
                         disabled={disabled}
                       >
                         {timeString}
@@ -127,16 +231,21 @@ const JadwalWawancara: React.FC<JadwalWawancaraProps> = ({
                       <button
                         key={session._id}
                         onClick={() =>
-                          onSlotSelect(item._id, jamDate, item.himakom, session._id)
+                          onSlotSelect(
+                            item._id,
+                            jamDate,
+                            item.himakom,
+                            session._id,
+                          )
                         }
                         disabled={true}
                         className={`mb-2 w-full rounded py-2 ${
                           selectedSlot?.sessionId === session._id &&
                           selectedSlot?.sesi.getTime() === jamDate.getTime()
                             ? variant === "himakom"
-                              ? "bg-custom-blue text-custom-silver opacity-60 cursor-not-allowed"
-                              : "bg-custom-orange text-custom-silver opacity-60 cursor-not-allowed"
-                            : "bg-custom-red text-custom-black opacity-60 cursor-not-allowed"
+                              ? "cursor-not-allowed bg-custom-blue text-custom-silver opacity-60"
+                              : "cursor-not-allowed bg-custom-orange text-custom-silver opacity-60"
+                            : "cursor-not-allowed bg-custom-red text-custom-black opacity-60"
                         }`}
                       >
                         {timeString}
@@ -144,8 +253,6 @@ const JadwalWawancara: React.FC<JadwalWawancaraProps> = ({
                     )}
                   </div>
                 );
-                
-                
               })}
             </div>
           );
@@ -156,7 +263,7 @@ const JadwalWawancara: React.FC<JadwalWawancaraProps> = ({
       {!pilihanDivisi && (
         <div className="absolute inset-0 grid place-items-center bg-custom-black/80 p-4 backdrop-blur-sm transition-all">
           <h1
-            className={`text-center transition-opacity duration-300 text-custom-silver`}
+            className={`text-center text-custom-silver transition-opacity duration-300`}
           >
             Isi divisi pilihanmu sebelum memilih jadwal wawancara.
           </h1>

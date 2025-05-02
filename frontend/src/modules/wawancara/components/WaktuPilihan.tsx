@@ -2,12 +2,9 @@ import Card from "./WaktuPilihanCard";
 import Peringatan from "./peringatan";
 
 const WaktuPilihan = ({
-  filteredHima,
-  filteredOti,
-  slugOti,
-  slugHima,
 }: any) => {
-  const isEmpty = !filteredHima && !filteredOti;
+  const isEmpty = false
+
   const formatDate = (isoString: Date) => {
     const date = new Date(isoString);
     // Adjust for GMT+7 by adding 7 hours
@@ -35,7 +32,7 @@ const WaktuPilihan = ({
           <p>Kamu belum memilih waktu wawancara, pilih waktu yang tersedia 😁</p>
         ) : (
           <>
-            {filteredOti && (
+            {/* {filteredOti && (
               <Card
                 variant="omahti"
                 tanggal={formatDate(filteredOti.tanggal)}
@@ -50,7 +47,7 @@ const WaktuPilihan = ({
                 jam={formatTime(filteredHima.sesi[0].jam)}
                 lokasi={filteredHima.sesi[0].slotDivisi[slugHima]?.lokasi}
               />
-            )}
+            )} */}
           </>
         )}
       </div>

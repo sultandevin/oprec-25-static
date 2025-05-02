@@ -1,16 +1,18 @@
-import DashboardSidebar from "@/components/DashboardSidebar";
-import DashboardNavbar from "@/components/DashboardNavbar";
 import Container from "@/components/Container";
+import DashboardNavbar from "@/components/DashboardNavbar";
+import DashboardSidebar from "@/components/DashboardSidebar";
 
 import Avatar from "@/components/Avatar"; // Assuming Avatar is in this path
-import { getCurrentUser } from "@/utils/auth";
 
-export default async function Layout({
+export default function Layout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const user = await getCurrentUser();
+  const user = {
+    username: 'Lebron James',
+    isAdmin: 'false'
+  } 
   const isAdmin = user?.isAdmin === "true" ? true : false;
 
   return (

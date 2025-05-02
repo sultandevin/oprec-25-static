@@ -4,11 +4,7 @@ import JadwalWawancara from "./JadwalWawancara";
 import Popup from "./Popup";
 
 interface PilihanWaktuProps {
-  variant?: "omahti" | "himakom";
-  slugWawancara: string;
-  pilihanDivisi: any;
-  wawancara: any;
-  pilihan: any;
+  variant?: string;
   onSelect?: () => void;
 }
 
@@ -19,26 +15,13 @@ interface ScheduleSlot {
   sessionId: string;
 }
 
-const PilihanWaktuCard = ({
-  variant = "omahti",
-  slugWawancara,
-  pilihanDivisi,
-  wawancara,
-  pilihan,
-}: PilihanWaktuProps) => {
-  const [selectedSlot, setSelectedSlot] = useState<ScheduleSlot | null>(
-    pilihan && pilihan.sesi && pilihan.sesi.length > 0
-      ? {
-          id: pilihan._id,
-          sesi: new Date(pilihan.sesi[0].jam),
-          himakom: variant === "himakom",
-          sessionId: pilihan.sesi[0]._id,
-        }
-      : null,
-  );
+const PilihanWaktuCard = ({ variant = "omahti" }: PilihanWaktuProps) => {
+  const [selectedSlot, setSelectedSlot] = useState<ScheduleSlot | null>(null);
   const [popupType, setPopupType] = useState<
     "gagal" | "berhasil" | "konfirmasi"
   >("gagal");
+  // Dummy value for pilihanDivisi - set to 'frontend' to make component work
+  const [pilihanDivisi, setPilihanDivisi] = useState("frontend");
 
   const handleSlotSelect = (
     id: string,
@@ -66,8 +49,7 @@ const PilihanWaktuCard = ({
 
         {/* Apply pointer-events based on selectedSlot */}
         <Popup
-          disabled
-          // disabled={Boolean(pilihan) ?? false}
+          disabled={!selectedSlot}
           type={popupType}
           selectedSlot={selectedSlot}
         />
@@ -76,11 +58,9 @@ const PilihanWaktuCard = ({
       {/* Pass selectedSlot and handleSlotSelect to JadwalWawancara */}
       <JadwalWawancara
         variant={variant === "himakom" ? "himakom" : "omahti"}
-        // disabled={Boolean(pilihan) ?? false}
-        disabled
-        slugWawancara={slugWawancara}
+        disabled={false}
+        slugWawancara="frontend"
         pilihanDivisi={pilihanDivisi}
-        wawancara={wawancara}
         selectedSlot={selectedSlot}
         onSlotSelect={handleSlotSelect}
       />

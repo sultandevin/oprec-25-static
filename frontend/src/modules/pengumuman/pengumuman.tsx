@@ -1,12 +1,16 @@
 import { Smile } from "lucide-react";
 import PopupPengumuman from "./components/PopupPengumuman";
-import { getPenerimaanUser } from "@/utils/fetch";
-import { cookies } from "next/headers";
 import { formatDate } from "@/lib/utils";
 
-const Pengumuman = async () => {
-  const accessToken = cookies().get("accessToken")?.value;
-  const { diterimaDi } = await getPenerimaanUser(accessToken as string);
+// Dummy data for diterimaDi
+// This represents acceptance data for a user accepted to the Frontend division
+const dummyDiterimaDi = {
+  slug: "frontend",
+  judul: "Frontend",
+  himakom: false,
+};
+
+const Pengumuman = () => {
   // Set your announcement release date here
   const releaseDate = new Date("2024-12-04T10:00:00Z");
   const currentDate = new Date();
@@ -14,6 +18,11 @@ const Pengumuman = async () => {
 
   const isAnnouncementAvailable = currentDate >= releaseDate;
   // const isAnnouncementAvailable = true;
+
+  // Use dummy data
+  const diterimaDi = dummyDiterimaDi;
+  // For a user that wasn't accepted, you can use:
+  // const diterimaDi = null;
 
   return (
     <main className="space-y-8">
@@ -43,7 +52,7 @@ const Pengumuman = async () => {
 };
 
 // title
-const Title = async ({
+const Title = ({
   isAnnouncementAvailable,
   releaseDate,
 }: {
@@ -64,9 +73,7 @@ const Title = async ({
         <h1 className="text-2xl font-semibold sm:text-4xl">Pengumuman</h1>
         <p>
           Kamu dapat membuka hasil pengumuman pada{" "}
-          <span className="font-semibold">
-            {formatDate(releaseDate)}
-          </span>
+          <span className="font-semibold">{formatDate(releaseDate)}</span>
         </p>
       </section>
     )}

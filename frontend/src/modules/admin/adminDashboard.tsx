@@ -7,31 +7,16 @@ import Image from "next/image";
 import { Logos } from "@/utils/types";
 import { User } from "lucide-react";
 
-const AdminDashboard = ({ allUsers, admin }: { allUsers: any; admin: any }) => {
-  allUsers = allUsers.filter(
-    (user: any) =>
-      !user.email.includes("omahti.oke") &&
-      !user.email.includes("himakom.mantap") &&
-      !user.username.includes("MAKOMTI"),
-  );
+const AdminDashboard = () => {
 
   return (
     <div className="min-h-screen space-y-4 bg-custom-black text-custom-silver">
       {/* Header */}
       <div className="flex items-center gap-4">
-        {admin.username === "MAKOMTI" || (
-          <Image
-            src={Logos[admin.username as keyof typeof Logos]}
-            alt=""
-            width={0}
-            height={0}
-            className="w-[2.5rem] sm:w-[3rem]"
-          />
-        )}
 
         {/* page title */}
         <HyperText
-          text={admin.username}
+          text={'Admin'}
           className="font-poppins-semibold text-[2.5rem] sm:text-[3rem]"
         />
       </div>
@@ -47,7 +32,7 @@ const AdminDashboard = ({ allUsers, admin }: { allUsers: any; admin: any }) => {
             Pendaftar
           </h1>
           <NumberTicker
-            value={allUsers.length}
+            value={100}
             className="font-bold text-custom-silver"
           />
 
@@ -59,11 +44,7 @@ const AdminDashboard = ({ allUsers, admin }: { allUsers: any; admin: any }) => {
         <div className="px-6 py-4 text-lg font-semibold">
           Informasi Pendaftar
         </div>
-        {admin.username === "MAKOMTI" ? (
-          <MakomtiTable allUsers={allUsers} admin={admin} />
-        ) : (
-          <DivisionTable allUsers={allUsers} admin={admin} />
-        )}
+          <DivisionTable />
       </div>
     </div>
   );

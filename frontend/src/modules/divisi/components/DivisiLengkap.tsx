@@ -69,13 +69,13 @@ const DivisiLengkap = ({
           }}
         >
           {divisi?.map((divisiong: any) => (
-            <SwiperSlide key={divisiong.id}>
+            <SwiperSlide key={divisiong._id}>
               <DivisiCard
-                title={divisiong.judul}
+                title={divisiong.nama}
                 logoUrl={Logos[divisiong.slug as keyof typeof Logos]} // Ensure correct logo is passed
                 slug={divisiong.slug}
                 // full={true}
-                full={divisiong.slot === divisiong.dipilihOleh.length}
+                full={false}
               />
             </SwiperSlide>
           ))}

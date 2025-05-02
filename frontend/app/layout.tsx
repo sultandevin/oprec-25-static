@@ -1,9 +1,9 @@
-import type { Metadata } from "next";
-import "./globals.css";
-import SmoothScrolling from "@/contexts/SmoothScroll";
-import { Poppins } from "next/font/google";
-import GSAPProvider from "@/contexts/GSAP";
 import { Toaster } from "@/components/ui/toaster";
+import GSAPProvider from "@/contexts/GSAP";
+import SmoothScrolling from "@/contexts/SmoothScroll";
+import type { Metadata } from "next";
+import { Poppins } from "next/font/google";
+import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Oprec Makomti",

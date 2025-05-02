@@ -1,7 +1,3 @@
-import { X, CalendarDays } from "lucide-react";
-import Link from "next/link";
-import Image from "next/image";
-import { Button } from "@/components/ui/button";
 import {
   AlertDialog,
   AlertDialogAction,
@@ -10,8 +6,12 @@ import {
   AlertDialogTitle,
   AlertDialogTrigger,
 } from "@/components/ui/alert-dialog";
+import { Button } from "@/components/ui/button";
 import { Logos } from "@/utils/types";
-import ButtonLink from "@/components/ui/ButtonLink";
+import { X } from "lucide-react";
+import Image from "next/image";
+import Link from "next/link";
+
 export default function PopupPengumuman({ className, diterimaDi }: any) {
   return (
     <AlertDialog>
@@ -44,7 +44,7 @@ export default function PopupPengumuman({ className, diterimaDi }: any) {
             <>
               <p className="text-[0.9rem]">Kamu berhasil diterima di divisi</p>
               <AlertDialogTitle className="mx-2 mb-8 mt-1 text-xl sm:text-3xl">
-                {diterimaDi.judulPanjang}
+                Frontend
               </AlertDialogTitle>
               <p className="text-[0.9rem]">
                 Jangan lupa untuk bergabung dengan grup
@@ -74,18 +74,14 @@ export default function PopupPengumuman({ className, diterimaDi }: any) {
                 <Link
                   href={
                     diterimaDi.himakom
-                      ? "https://line.me/ti/g/gNSyy59_RZ"
-                      : "https://chat.whatsapp.com/FhlKtDCYd0ZEYThKqjVJvt"
+                      ? "https://youtube.com"
+                      : "https://youtube.com"
                   }
-                  passHref
-                  className="w-full text-[0.9rem] lg:w-1/2 block p-4 text-center rounded-lg"
-                >
-                  <a
                     target="_blank"
                     rel="noopener noreferrer"
-                  >
+                  className="w-full text-[0.9rem] lg:w-1/2 block p-4 text-center rounded-lg"
+                >
                     Grup
-                  </a>
                 </Link>
               </AlertDialogAction>
             </>
